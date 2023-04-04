@@ -95,6 +95,7 @@ header{
 .card h3{
     font-size: medium;
     font-style: italic;
+    padding-bottom: 15px;
 }
 
 .card p{
@@ -111,6 +112,43 @@ header{
     border-radius: 5px;
     border: 10px solid #2b2b2b;
     margin-left: 5%;
+    margin-bottom: 20px;
+    font-family: 'Lobster Two', cursive;
+}
+
+form{  
+}
+
+.input-el{
+    width: 90%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: lightgrey;
+    color: grey;
+}
+
+.input-ell{
+    width: 90%;
+    height: 105px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: lightgrey;
+    color: grey;
+}
+
+.input-elll{
+    width: 90%;
+    height: 40px;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    border: 10px solid #2b2b2b;
+    margin-top: 10px;
     margin-bottom: 20px;
     font-family: 'Lobster Two', cursive;
 }
